@@ -142,7 +142,7 @@ jupyter notebook
 ---
 
 ## 👤 Author
-**Milad Ebrahimi**  
+**Milad Ebrahimi Abyazandi**  
 Graduate Student – Data Science  
 📍 Canada
 
